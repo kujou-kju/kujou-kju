@@ -1,0 +1,28 @@
+§c§lHartzCraft §9§lFAQ§0
+§7§oStand 19. November 2022§0
+
+§9§lWelche Mods sind installiert?§0
+Dieses Pack beinhaltet folgende relevanten Packs:
+
+• Optifine
+• Plasmo Voice §6- Unser Sprachchat-System§0
+• Xaero's Minimap -und-
+• Xaero's World Map
+• Borderless Window §6- für besseres Vollbildmanagement§0
+• Just Enough Items (JEI)§0
+
+Es befinden sich noch 3 weitere Mods an Board,
+diese dienen allerdings nur der Modifikationen für Menü
+und Datapack-Resourcen
+
+§9§lWie kann ich mich whitelisten lassen?
+Joine dafür den NanoArtz Community Discord und reiche
+ein Ticket ein
+
+§9§l
+
+§9§l
+
+§9§l
+
+§9§l
