@@ -1,17 +1,8 @@
 §c§lHartzCraft §6Infos §7& §9FAQ§0
 §7§oStand 03. Dezember 2022§0
 
-§c§lAufgrund eines nicht wiederherstellbaren
-§c§lServercrashes ist das Projekt vorzeitig
-§c§lbeendet!!!
+§c§lHartzCraft ist aufgrund eines nicht wiederherstellbaren
+§c§lServercrashes nicht mehr erreichbar und damit vorzeitig beendet!!!
 
-Derzeit ist noch nicht bekannt ob es einen
-Hard Reset (Neubeginn) gibt, das Projekt
-auf Eis gelegt wird oder es in Zukunft ein
-Modpack Projekt wird.
-
-Derzeit warte ich noch finale Infos von
-Nano ab, ob dieses Pack eingestellt werden
-kann oder nicht.
-
-- Kujou
+Danke das ihr mein Pack benutzt habt
+~ Kujou
